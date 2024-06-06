@@ -475,3 +475,58 @@ http://10.100.100.20:8088/401/index.m3u8?token=cdfa119c1816b5b2b0e778c4437638103
 #EXTINF:-1 tvg-id=""tvg-group="🇦🇷" tvg-logo="",Zee tv
 https://nayeemparvez.my.id/aptv/stream.m3u8?id=95&e=.m3u8
 http://51.159.212.144/adnankb2006/86057314/245893?token=GhMNBEZcR1gRUgYOAAIBVlVQUgIAAQ4GVlcPUQIMA1oFUAQAAVYHUlJEGBoXEhZRBVtrXgVGAgJWUw8NABQUFhJUFzpcUEdYEVQEAVdeXBZIFEBeDAEaClNRBgEGDwZSWQdJR0VdAUAJRAUJUVdVFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVw1VDhYbQwdXRQwSRU0RAhQ
+
+#EXTINF:-1 tvg-id=""tvg-group="🇦🇷" tvg-logo="",Sony max
+http://51.159.212.144/live/shahz18/18usman/66179.m3u8?token=GhMNBEZcR1gRBVYLVl5dUgJUDQFWBlsBVFRWDAdeBFICUAQAUAIDUgpEGBoXEhZRBVtrXgVGAgZUVwANHxpDEARDOgxRFl9AAVYNCVFfRhhGQl1aBEYCAE5ER11XGgxBVQVWXAUWSUBWHkBdFggFWDtSUUEIB10SWAhCWF8UFAwPbgEAWFULBhFcFghGSkZdF0YWDQ8RVFxORFVdR0pXFwQTX0cEBlNWEUoWWwsTCkAWTxYNQyZ8Ek5EUkxHXVgQCF4LRw8WCFFGXhYURg8XaxZTR0MTAVldBxQVDhEIFE9DXAQdalcKDF0DV0wNCQpHRgwWBkNIGl0NCF5AXEppEwhVR18XBVRaC0RJ
+http://212.46.43.93/887733/887733/109957?token=GhMNBEZcR1gRUgJaU1BVB1YBBQZUVA9RW1UOAFdZDlZQBFQDAAABUVVEGBoXEhZRBVtrXgVGAgFSXw4BBBQUFhJUFzpcUEdYEVEAD1FeVxZIFEBeDAEaClNRBgEKDwRVVwJJR0VdAUAJRAAJVlRUFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgBUARYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZTUgVcDhZK
+
+#EXTINF:-1 tvg-id=""tvg-group="🇦🇷" tvg-logo="", Sony max2
+http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id=""tvg-group="🇦🇷" tvg-logo="",Monoranzan Tv
+https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Music" tvg-logo="",MN TV
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Movie 24/7" tvg-logo="",Rasi tv
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Movie 24/7" tvg-logo="", Movie HD
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Movie 24/7" tvg-logo="", The movie club
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangladesh TV",Florida bangla
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="", 88.8
+https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="", RAJ FM 88.8
+https://as1.digitalsynapsebd.com/proxy/bbrajfm/stream
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="", RAJSHAHI BETAR
+https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="",RADIO BD
+https://stream.zeno.fm/mzuka1fdxzzuv
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="", Radio padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="",Radio Furtti
+http://stream-146.zeno.fm/0zha3rfq02quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwemhhM3JmcTAycXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InYtNlJCQXlBU2J1Tll4enkxc1d3WFEiLCJpYXQiOjE3MTcxMzE2NzEsImV4cCI6MTcxNzEzMTczMX0.B_B2C6JndGc8jxyiswxVc-pTpmZtuIpZKnEsUrEuWkM&rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="",Rafo ekattor
+http://192.144.82.200:9302/;stream/1;;
+
+#EXTINF:-1 tvg-id=""tvg-group="Fm" tvg-logo="", Radio today
+http://stream-142.zeno.fm/0zha3rfq02quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwemhhM3JmcTAycXV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlpGMW43dzJNUXZxaFdldXFxTkZ6Z0EiLCJpYXQiOjE3MTcxMzE4MjQsImV4cCI6MTcxNzEzMTg4NH0.O5qqkIys8rt_3iCvReOoXUZfz-ieQhKgoincSPWjC4Y&rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+
+#EXTINF:-1 tvg-id=""tvg-group="FM" tvg-logo="", Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
