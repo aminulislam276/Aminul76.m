@@ -1,6 +1,6 @@
-I#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-id="Fancode"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/nDsPhZL/63.jpg",Fancode
+#EXTINF:-1 tvg-id="Fancode"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/nDsPhZL/63.jpg", National thme
 https://betar.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/e5f25d4e_f0a7_4b2a_a07c_3ec69a793516/bd_national_anthem.mp3
 
 #EXTINF:-1 tvg-id="Deen TV UK"tvg-group="Islamic TV" tvg-logo="",Shurah live
@@ -74,10 +74,10 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-id="Nagorik Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SwYBrdG/nagorik.webp",Nagorik TV🇧🇩
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=HnMIvAP2bF24SrrDo-rYzg&expires=1716924789&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=ju9060YGAStDMUgskNwvEw&expires=1717904726&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",SOMOY TV🇧🇩
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/8rjkCDZ/Mytv-Bangladesh-Logo.png",MY TV🇧🇩
@@ -109,6 +109,7 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Maasrangga Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SxwGLCz/maasranga.webp",Maasrangga TV🇧🇩
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-id="Asian Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/dL59kkn/asiantv.webp",Asian Tv🇧🇩
