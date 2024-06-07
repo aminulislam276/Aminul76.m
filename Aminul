@@ -6,8 +6,8 @@ https://betar.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/e5f25d
 #EXTINF:-1 tvg-id="Deen TV UK"tvg-group="Islamic TV" tvg-logo="",Shurah live
 http://lb8.mototvlive1.xyz:8080/pfrubel/pfrubel/16538?token=TRAOWEBQQAIaXFIHXgdXUw1WWgEEVlNZVVILAAMAAAoDAFZcVghUDl5HHUFLFhFSVFg9UVERDQkGBQoBHRFNSlNAOVBXGlgaC10HUgtATxVBXA9dFwkGDwEGAQEBAQABGhAWUFcaWBoKVAhRC1NTFRkXB0BBVkVWUVxmXVRFUVpTEFxXRlQOFBoKXzxcBw5WW1FAAhcDFRQSWUpJEwlWTFpeShtRURZKWRFUQQJAWgQAF04aVlxCVkRCQBsLEXp9FB5EXEtMB1ZLDF4NGlhBQ0YXThpcQGhKVUNNS1RSVVxEEFwbAxpOGlUESTxbDQ1ZUFYWUVpdRBoKEggbHRFVVlhbElZBZxJRXEcLQQlRUQ8XSA==
 
-#EXTINF:-1 tvg-id="Deen TV UK"tvg-group="Islamic TV" tvg-logo="",Shurah
-http://lb8.mototvlive1.xyz:8080/pfrubel/pfrubel/16440?token=TRAOWEBQQAIaAFRXWgYCBFcDVQkMAAILU1ZfXwkKCl8AA1NbUgxbCQtHHUFLFhFSVFg9UVERDQkGBA0JHRFNSlNAOVBXGlgaC10HUgtATxVBXA9dFwkGDwEGAQEBAQgJGhAWUFcaWBoKVgRbD1pWFRkXB0BBVkVWUVxmXVRFUVpTEFxXRlQOFBoKXzxcBw5WW1FAAhcDFRQSWUpJEwlWTFpeShtRURZKWRFUQQJAUAYFF04aVlxCVkRCQBsLEXp9FB5EXEtMB1ZLDF4NGlhBQ0YXThpcQGhKVUNNS1RSVVxEEFwbAxpOGlUESTxbDQ1ZUFYWUVpdRBoKEggbHRFVVlhbElZBZxJRXEcLQQFTUhVI
+#EXTINF:-1 tvg-id="Islam Bangla"tvg-group="Islamic TV" tvg-logo="",Islam bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peace Tv Bangla"tvg-group="Islamic TV" tvg-logo="https://i.ibb.co/PtHtR7S/peacetv-bengala-vipotv-1.png", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -46,10 +46,10 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tsports"tvg-group="Bangladesh TV" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",Tsports hd
-http://10.100.100.20:8088/102/tracks-v1a1/mono.m3u8?token=0e6d2b9b98c370f5d0713945bbee3073d76251b2-21c7ee2a0b9ad9e9238a37b154ee0758-1716682992-1716679392
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=3UmhxvaLnj-6viAhKbX4Fg&expires=1717943503&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Gazi Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/VgsnHry/GTV.webp",Gazi TV
-http://10.100.100.20:8088/106/index.m3u8?token=054e77b26eded5e0e11592164aafa2e264cfb673-d9d8bd51b0164216a7f2adc5755cce38-1716900588-1716896988
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=m0wugykFfYFbVSCvUomBpA&expires=1717943438&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -64,7 +64,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATN News"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/b63QzKz/a41f0388-395e-47ec-9db8-477a3fd09d05-180x180-95c38a1d-7287-4c2d-83fe-e2536874e546.jpg", ATN News🇧🇩
-http://176.119.29.52/live.ts?channelId=83&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://51.159.212.144/live/mahendra44/mhnd1234/245905.m3u8?token=GhMNBEZcR1gRU1EIUFYGDAZUDFNWUw0GUFMADAQJVwdRBwAEVgBVVwtEGBoXEhZRBVtrXgVGAgJWUw4EBhQUFhJUFzpcUEdYEVIEDlBQUxZIFEBeDAEaClJKFURaXBRZQwdVUAEGR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR19bQQkOH0RXVxEIEEYdFA4VIyAaHEADT0BWVkUKDl9HXxdZVhcLRBgaDRU7RgFFQEUEBVVVEEQNFgMaGkEMUB06VlsLDFYFQFELCBcWXhQFFU1GVV8MD0NbQWdGCgUTX0cDBFBWC0RJ
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
 
 #EXTINF:-1 tvg-id="Ekushe Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/DYXZcCC/ekushey.webp",Ekushe TV🇧🇩
@@ -78,6 +78,7 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=ju9060YGAStDMUgskNwvEw&expires=1717904726&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",SOMOY TV🇧🇩
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=ifIfUe0TkwhxdDmtdVeokw&expires=1717943684&user=c15be118d93a464dabf77260596012cf
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
@@ -86,6 +87,7 @@ http://homeip.biz/BD_MYTV/mpegts?token=314ac298473c044930450f0faf7be506
 http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="NTV"tvg-group="Bangladesh TV" tvg-logo="",NTV🇧🇩
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
@@ -105,6 +107,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv🇧🇩
+http://89.33.14.34:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239076.ts?token=HRdcVERdQA8VA1FWAF8KBwMAUlYAWFJRVAlRAQUHBAkHVwFUBwdVUQYSSRYSTUEDVA88XVBDDVBQCVFUAx1DRBVQRmpeUUAPFQFVDVcBEUoXFgpZUUMNU1QBVlQHCVECUxkWRV5RQA8VBFcBVw0RShcHG0BRE1kDD28FBkNYAlRED1pAW1lOF1heOlAEVFIIUUBZFgVDG0AKQxFBD18UXQoZFldeQRBUQ1VHDkMIBFEBQE8WVw5CDBdCGEEPEyN1RBkWUE9BB1tEWQpaQwMREkZATxZdEmgQBkMVEVBQDFQUFw4XBxdOF1pRHWsCVl0IUAEXXVsPREBZElBTBQFDHURYW1teQQ1HaEAMUEMDEVcDU1QEFhw=
 http://176.119.29.52/live.ts?channelId=86&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
@@ -112,7 +115,7 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Maasrangga Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SxwGLCz/maasranga.webp",Maasrangga TV🇧🇩
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://51.159.212.144/live/MuhammadAli@2/86428853795/245904.ts?token=GhMNBEZcR1gRAAxdXFAABgFSBAYFBQBWV1AAUgpaDltYAQYHAARcBAJEGBoXEhZRBVtrXgVGAgJWUw4EBxQUFhJUFzpcUEdYEV4BClFeUhZIFEBeDAEaClNRBgMECg5SUgBJR0VdAUAJRAEAU19GGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAgoTCFhIFFdYFApMQhtEDRZxfBRPQ1QdEVBaFgtcCBYCRhIXFkgUXUQ+Fl1DFhRSVV5dREFbE1VHGRYIA0s5V1cKCAFXEF9bWRJGAhJTRBsWXldYChVeFzpFXQFACUQBAFBSRkk=
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-id="Asian Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/dL59kkn/asiantv.webp",Asian Tv🇧🇩
@@ -148,6 +151,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.149.142.133/0.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co/mS1KjL6/news24-185x278.webp",News 24🇧🇩
+http://188.241.219.18/live/2932010/2932010/3810.ts?token=ShJcU0BbQQNHXAAIVVYAXF8DU1NSBFZVAwRVBgBUUlQHBANUBlEBW10bGBpEF0dcWF1vWQIXXlIJU1IbRxFAV0NvXVYRCUEMVw4BAQVBGRtNWV1VRA9VVgBVVQVdVgcEHRJEW1cRWRtQDwYNFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCQBVBxsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsADgZXABtE
 http://176.119.29.52/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://cdn01.palki.tv/live/News24-M/index.m3u8
 
@@ -161,7 +165,7 @@ https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co/JrBcGgY/640px-Mohona-tv-Logo-svg.png",Mohona TV🇧🇩
-http://176.119.29.52/live.ts?channelId=103&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://176.119.29.52/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.postimg.cc/MHXbGyvd/unnamed-1.png",Jago News 24🇧🇩
@@ -180,6 +184,7 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh TV", DURONTO TV🇧🇩
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=JkGF3JZblFfEm3Iii64Pzw&expires=1717944622&user=c15be118d93a464dabf77260596012cf
 http://195.26.87.217/live.ts?channelId=74553&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 
@@ -190,13 +195,13 @@ https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News🇧🇩
-http://176.119.29.52/live.ts?channelId=29197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-group="Bangladesh TV" tvg-logo="", Ekattor tv
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="Channel 9"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/hCGMN3g/channel9-185x278.webp", Channel 9🇧🇩
+http://176.119.29.52/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 http://176.119.29.52/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
@@ -211,7 +216,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-id="Nandan Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/H7tyftD/unnamed.jpg",nan TV🇧🇩
 https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
-https://web.nandansyst.com/hls/nandan.m3u8
+https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BISWA BANGLA 24"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/qn7jyWK/unnamed-2.jpg",BISWA BANGLA 24🇧🇩
 http://176.119.29.52/live.ts?channelId=90253&uid=7435&deviceMac=00:1A:79:51:4B:3A
