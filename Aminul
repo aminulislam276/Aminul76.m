@@ -74,6 +74,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="Desh Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/K92SsJF/7d1b157d-c68d-4e28-99b3-4e73ce0a6390-180x180-ddc72b39-a2e7-454e-b853-7eb9cd8a6729.jpg",Desh TV🇧🇩
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=ACyPYT584Axv33MFoKkUfA&expires=1718235885&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Nagorik Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SwYBrdG/nagorik.webp",Nagorik TV🇧🇩
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=qvS12Ydbg4gd9m6UkjLvNg&expires=1718165946&user=c15be118d93a464dabf77260596012cf
@@ -81,6 +82,7 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=qvS12Ydbg4gd
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",SOMOY TV🇧🇩
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=r5kFgsxyhNlZXm8k3NwqWg&expires=1718210373&user=c15be118d93a464dabf77260596012cf
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+http://176.119.29.52/live.ts?channelId=115&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/8rjkCDZ/Mytv-Bangladesh-Logo.png",MY TV🇧🇩
 http://homeip.biz/BD_MYTV/mpegts?token=314ac298473c044930450f0faf7be506
@@ -90,6 +92,7 @@ http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="Ntv"tvg-group="Bangladesh TV" tvg-logo="",Ntv🇧🇩
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -99,6 +102,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHANNEL I"tvg-group="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png", CHANNEL I🇧🇩
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=RJp7SHh4ThEaqSv_TUb5ow&expires=1718235971&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Mon Tv Bangla"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/w7qdgjt/MON-TV-Bangla-live-vipotv.png",Mon Tv Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
@@ -201,6 +205,7 @@ http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://176.119.29.52/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 http://176.119.29.52/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=ukgAb_74cV-shb7gC00fmA&expires=1718236040&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Nexus TV"tvg-group="Bangladesh TV" tvg-logo="A", Nexus TV🇧🇩
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
