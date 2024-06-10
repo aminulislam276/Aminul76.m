@@ -47,9 +47,11 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tsports"tvg-group="Bangladesh TV" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",Tsports hd
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=3UmhxvaLnj-6viAhKbX4Fg&expires=1717943503&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=R36-XiRmuFADw017H-DpdQ&expires=1718210129&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Gazi Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/VgsnHry/GTV.webp",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=m0wugykFfYFbVSCvUomBpA&expires=1717943438&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Yiqo_LUAVFZgdZ4zxGnaSg&expires=1718210027&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -77,8 +79,7 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=qvS12Ydbg4gd9m6UkjLvNg&expires=1718165946&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",SOMOY TV🇧🇩
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=ifIfUe0TkwhxdDmtdVeokw&expires=1717943684&user=c15be118d93a464dabf77260596012cf
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=r5kFgsxyhNlZXm8k3NwqWg&expires=1718210373&user=c15be118d93a464dabf77260596012cf
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/8rjkCDZ/Mytv-Bangladesh-Logo.png",MY TV🇧🇩
@@ -106,16 +107,13 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv🇧🇩
-http://89.33.14.34:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239076.ts?token=HRdcVERdQA8VA1FWAF8KBwMAUlYAWFJRVAlRAQUHBAkHVwFUBwdVUQYSSRYSTUEDVA88XVBDDVBQCVFUAx1DRBVQRmpeUUAPFQFVDVcBEUoXFgpZUUMNU1QBVlQHCVECUxkWRV5RQA8VBFcBVw0RShcHG0BRE1kDD28FBkNYAlRED1pAW1lOF1heOlAEVFIIUUBZFgVDG0AKQxFBD18UXQoZFldeQRBUQ1VHDkMIBFEBQE8WVw5CDBdCGEEPEyN1RBkWUE9BB1tEWQpaQwMREkZATxZdEmgQBkMVEVBQDFQUFw4XBxdOF1pRHWsCVl0IUAEXXVsPREBZElBTBQFDHURYW1teQQ1HaEAMUEMDEVcDU1QEFhw=
-http://176.119.29.52/live.ts?channelId=86&uid=7435&deviceMac=00:1A:79:51:4B:3A
-http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=P2DTMXFUXwBl0G2CVtoh4w&expires=1718210187&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.imgur.com/sYZOVV5.png",Anando Tv🇧🇩
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Maasrangga Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SxwGLCz/maasranga.webp",Maasrangga TV🇧🇩
-http://51.159.212.144/live/MuhammadAli@2/86428853795/245904.ts?token=GhMNBEZcR1gRAAxdXFAABgFSBAYFBQBWV1AAUgpaDltYAQYHAARcBAJEGBoXEhZRBVtrXgVGAgJWUw4EBxQUFhJUFzpcUEdYEV4BClFeUhZIFEBeDAEaClNRBgMECg5SUgBJR0VdAUAJRAEAU19GGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAgoTCFhIFFdYFApMQhtEDRZxfBRPQ1QdEVBaFgtcCBYCRhIXFkgUXUQ+Fl1DFhRSVV5dREFbE1VHGRYIA0s5V1cKCAFXEF9bWRJGAhJTRBsWXldYChVeFzpFXQFACUQBAFBSRkk=
-http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=RH7PC8TQWZ9uX9YNzcLWAQ&expires=1718210281&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-id="Asian Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/dL59kkn/asiantv.webp",Asian Tv🇧🇩
 https://mtlivestream.site/asian/ytlive/index.m3u8
