@@ -47,12 +47,12 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tsports"tvg-group="Bangladesh TV" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",Tsports hd
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=3UmhxvaLnj-6viAhKbX4Fg&expires=1717943503&user=c15be118d93a464dabf77260596012cf
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=R36-XiRmuFADw017H-DpdQ&expires=1718210129&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=xPXyAhVl6ER-ZmerbgSXWg&expires=1718673463&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="Gazi Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/VgsnHry/GTV.webp",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=m0wugykFfYFbVSCvUomBpA&expires=1717943438&user=c15be118d93a464dabf77260596012cf
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Yiqo_LUAVFZgdZ4zxGnaSg&expires=1718210027&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=V2726bkD5F5-aRofY16XrA&expires=1718673578&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -147,6 +147,9 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:-1 tvg-id="ATN Music"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/yp6DGZx/atn-music-tv-live-vipotv.png",ATN Music🇧🇩
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-group="Bangladesh TV" tvg-logo="",Gaan bangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.postimg.cc/fy0tF53n/images-1-6.png",NRB HD Tv🇧🇩
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
