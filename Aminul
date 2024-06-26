@@ -86,7 +86,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="Desh Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/K92SsJF/7d1b157d-c68d-4e28-99b3-4e73ce0a6390-180x180-ddc72b39-a2e7-454e-b853-7eb9cd8a6729.jpg",Desh TV🇧🇩
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718952353/ei/Qc10ZpOIFaTzz7sPnZ2eqAQ/ip/162.158.227.113/id/Mqujv4w8SFw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198106/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_HeICU0JMuQABY1Q3VsoCMJOi_YJrXnUt15zyjd2kiym3J0j-JVPyhclzI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK9ErGdSJ_KAF28P3aTw2XesKflS94fe4vlisFUG0TaUAiEAypIrLsYmr8Ct5UzE8kJ6p1NRRWcVdqOyGzyHF4e9dWM%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719439643/ei/uzx8Zv6bJvjR3LUP-9GgoAQ/ip/172.69.179.194/id/C183C3g0KtY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwKOrLRWSnv362ecg-NDAhRu4UEoA3_ZEyQhT2CJ3bRj87_QAHXdI-qkECI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMoSqU2t0lbI0TGI9qQO9pn5oUvGbXsoFAzYtRzoLL92AiAV_-KKyQ_hqnVMGbZ7C_7jHYLUrdLvU2XoxzgiB2_q4A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Nagorik Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SwYBrdG/nagorik.webp",Nagorik TV🇧🇩
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=qvS12Ydbg4gd9m6UkjLvNg&expires=1718165946&user=c15be118d93a464dabf77260596012cf
@@ -102,10 +102,7 @@ http://homeip.biz/BD_MYTV/mpegts?token=314ac298473c044930450f0faf7be506
 http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="NTV"tvg-group="Bangladesh TV" tvg-logo="",NTV🇧🇩
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
 
 #EXTINF:-1 tvg-id="Ntv"tvg-group="Bangladesh TV" tvg-logo="",Ntv🇧🇩
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -141,7 +138,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id=""tvg-group="Bangladesh TV" tvg-logo="",channel 24🇧🇩
 http://176.119.29.52/live.ts?channelId=87&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=yQ50L9-lQw0nFVdIhjmLcA&expires=1718236380&user=c15be118d93a464dabf77260596012cf
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy tv🇧🇩
 http://176.119.29.52/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
