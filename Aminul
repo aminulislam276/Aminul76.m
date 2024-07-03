@@ -52,7 +52,7 @@ http://103.147.169.52:8080/auth/QDd9gGWN9RSBzorqRFtxxjQD6YIpKOggewmLBbLilv2-pdWY
 
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-http://103.147.169.52:8080/auth/RmCJXzqgZDwwftQ4hc45vc0n5xI7hBowYTN4xzmFFlbwupfAi-20LoczG1-ZVeegaCqMlpwStERBvfDpc6x_w2N9GlOm700ZuA9JCc_rGoO3nlkeOgrxi4_hymXX9elm4OJ4dnoYMZgg-54O11WUREJdhAZfpxoRBhyOryZ-ABBh1yp3mg6OwUM4zG2fZ9bMXK5q_KM1t4kUpLuKWzSXai39hQpyk6VLh1Au1aoMYE5XOEVZMYn0TcCh0kMXlJlfAeyvSDnXRBDQEXoDAYEUsJxpDgkiphxfnK6D1Rz7NrEk8OxQfL_DeobvqbxQFSbZYzfUB2W1pGmRtLfANSvolj6q55ry3xjL_IqcbBG1NRv9dhXnKU8ssiZJYB-NJJFl5XwsqUVn4ck6qdJtEkWtbEpeOv14y2yhX0BVqPeqzBRAs5LIDbC5d2CpktKRAah2zL0GsAKdC5HZCRVN64pbSQkDV_2iUdT2wDhQ3GFn_GbL0zP0fLECooL-cZE9qIbraHkF3lJKIqTYPhGcraZHvczB8zvfH0BX2u1HGlMvGiJmIHgLv4vGPAsYBngpuUQdsVXWtunJ9oh2DWxpLY3BxQ7Ba1dP-N_vMFU3m1Pj2t_DxXf8vEr6lsrDbcE6PV7WX1L1TLKwLACoLHRuv2KmtsgCVw7TN-bjZTsrJna11ZRFc5GcrdvDKXtYt4EgEoEk
+
 
 #EXTINF:-1 tvg-id="Tsports"tvg-group="Bangladesh TV" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",Tsports hd
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=xPXyAhVl6ER-ZmerbgSXWg&expires=1718673463&user=ff39d05fef0749028389f28943b73363
@@ -71,9 +71,11 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 tvg-id="ATN Bangla"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxNzowMiBQTSZoYXNoX3ZhbHVlPUdicG4yVWhPMDhranJIUU4yRWRMTFE9PSZ2YWxpZG1pbnV0ZXM9ND
+http://176.119.29.52/live.ts?channelId=81&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id=""tvg-group="Bangladesh TV" tvg-logo="",ATN Bangla UK
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+http://176.119.29.52/live.ts?channelId=82&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="ATN News"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/b63QzKz/a41f0388-395e-47ec-9db8-477a3fd09d05-180x180-95c38a1d-7287-4c2d-83fe-e2536874e546.jpg", ATN News🇧🇩
 http://51.159.212.144/live/mahendra44/mhnd1234/245905.m3u8?token=GhMNBEZcR1gRU1EIUFYGDAZUDFNWUw0GUFMADAQJVwdRBwAEVgBVVwtEGBoXEhZRBVtrXgVGAgJWUw4EBhQUFhJUFzpcUEdYEVIEDlBQUxZIFEBeDAEaClJKFURaXBRZQwdVUAEGR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR19bQQkOH0RXVxEIEEYdFA4VIyAaHEADT0BWVkUKDl9HXxdZVhcLRBgaDRU7RgFFQEUEBVVVEEQNFgMaGkEMUB06VlsLDFYFQFELCBcWXhQFFU1GVV8MD0NbQWdGCgUTX0cDBFBWC0RJ
