@@ -86,8 +86,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="Desh Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/K92SsJF/7d1b157d-c68d-4e28-99b3-4e73ce0a6390-180x180-ddc72b39-a2e7-454e-b853-7eb9cd8a6729.jpg",Desh TV🇧🇩
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719439643/ei/uzx8Zv6bJvjR3LUP-9GgoAQ/ip/172.69.179.194/id/C183C3g0KtY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwKOrLRWSnv362ecg-NDAhRu4UEoA3_ZEyQhT2CJ3bRj87_QAHXdI-qkECI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMoSqU2t0lbI0TGI9qQO9pn5oUvGbXsoFAzYtRzoLL92AiAV_-KKyQ_hqnVMGbZ7C_7jHYLUrdLvU2XoxzgiB2_q4A%3D%3D/file/index.m3u8
-http://103.84.173.108:8080/auth/xbc8LqAF-HLookUBFkRwcXweGzht9ln-hZmwX8eF-8lTNeJwHvX9esVtBVjCe-Cs-99esTWp4nbW4EhMDOdNJhKL5QG8Dso3wpg7GlfcN1h1o_anA_oOg-vzX-x649AaU5WLUe6seSGjCy_WliXxtC0ldVE1zx0NLwkkq85KRaXVx0ZodSP0GIA2H18bU28U0FXCHtZsv7pOpYwXr9-4zJdGwppECX7YjtGxxh79I72uqLGwz9LOdbuFLwH8TKR0MFJZ9rYbneoXZSGraIaq-l3TysOLStz7M4b107gZaZdfQE_qdmTvSAa26tpPTaUaMRLfeKghyDeDaMk1Xzp9DXgk8Ts_5sQQYkpwSnxh8ZBYZhtNXuVn3QYzYp1nT47i3wi7tcmF06DpeKsTyRu2gcWWBK1xXZFa_j_8KQvor5irpO-lsePHB3am7TldWaZF8dgPcJvLACiyFw5WCk-3DwL-t1nid0PZCFtbvkO0ix5tU97xgvzPapd4Y3oIazJsiirprWvwUWf_7ZdAj2wF9HMVrqnYfatEKs0kqDzwsGjmE2SC_A6MUGAnd4yCxqvYQH-UAeByK1Oxc8JRjn9pU7bDSFylH4nwQE3rnmOyBKIzulzxK_oF5mLAb9mdoi7YHplKmH8hhkg9jUhFfTR3aA
+http://asdqwcd2344.mohdtv.com:8880/live/voby5038/67747551/57881.ts?token=TBRRBxJfEA9BXVMJBwNRUA9VClsHVVVbBVUNDVcEVQIEA1gHVwYEDFoaHBtCRUIEWV5tC1QTC1cGXQAFGBJCElJEZg8FFQgXUgoECQMJAkMUEUYLXVQTWABSCgcECQVTBAcVRBFeVhdZGgYIAgcIQxQRVxpEVEMMUAlnUFFGXgJSFAMIFFteGUFXXmZVVF0AVlcQWBIAE04TDEtEFgpZFFtaFUQDXkZHAkxVGwtfRQ1UHxABX0RfFkMcGg4WcnNDGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVBoYFl1YD15CVhQ+R1tRQQISDwADCFcaTg==
 
 #EXTINF:-1 tvg-id="Nagorik Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/SwYBrdG/nagorik.webp",Nagorik TV🇧🇩
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
@@ -134,7 +133,7 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh TV" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv🇧🇩
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjQgODo1NzozMyBBTSZoYXNoX3ZhbHVlPXlmTDFUSTd4UEZsOFpyaFBGVndBUHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
-http://113.212.111.246:8080/hls/col12.m3u8
+http://vo012.mohdtv.com:8880/live/voby5038/67747551/49970.ts?token=TBRRBxJfEA9BDglcCQYAUg1SUVIBCQgABQdcUFEDB1MFBF8DUARQU1saHBtCRUIEWV5tC1QTC1YIXA8EGBJCElJEZg8FFQgXUgoECQMJAkMUEUYLXVQTWABSCgcECQVQBAAVRBFeVhdZGgMBAAMEQxQRVxpEVEMMUAlnUFFGXgJSFAMIFFteGUFXXmZVVF0AVlcQWBIAE04TDEtEFgpZFFtaFUQDXkZHAkxVGwsTAVcNARBOElJeF18RSk0WChUjcxQVRARPRlANS1lWXxMKQ0xAEE4SWEI9QwBLQEZVVgxSRBtcQwcQGUFVUUFuUl8PVlZRFlleXxETXxoFFhwVDFhYUBIORW1FClwSAxMCB1kJBhAf
 
 #EXTINF:-1 tvg-id="Channel 24"tvg-group="Bangladesh TV" tvg-logo="",channel 24🇧🇩
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
