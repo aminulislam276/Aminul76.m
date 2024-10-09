@@ -58,9 +58,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1 tvg-id="Tsports"tvg-group="Bangladesh TV" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",Tsports hd
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=xPXyAhVl6ER-ZmerbgSXWg&expires=1718673463&user=ff39d05fef0749028389f28943b73363
-http://113.212.111.246:8080/hls/col12.m3u8
-http://103.147.169.52:8080/auth/GNKZ0-cncpIR5ZCJIcqGj3ylfmanjEAg7ZSNjKuhiHjsxDJ6Tuimqc4pM2PfCsufRZOh0cPUYVhAhO5MYJG_T0X5TngEcWOE5vqB1_2_MU5PSmbR47y9bYA-igAyKv9v197vSTxYHus3VmRZ5c2s_F3noQSkFz8xonm29aPGWkNebjgDYHAQwgfSyrunvAvhvFpu44NOIx4WRffqPiVJEuSyKfNzstqjKx1nV0YKQFd2oC8wKkwmN2fMkNm8QX75QRIMFxnLyWN8uXHNSUfYUFEE50X4sYwNGEjqjAOlCTxm1xh76iVqeU-PRuEkvmUvDJvx7h4ersjwmr1LYRgNI2BqFh-GGy3O1ZZbbEDIP3GAKIH4yLX7UAtecOkEGls2Nz-f3W1vi0GVsQC5AArvcQ2NoWJa1JdVzHXGnVCPUI-P2sUDc7ACwU5H6Ovb56Zrp3VMsGB6dMYgCfQsPViRKxPMMuXqCycSmQpkDcHWtY93N5D0sWDF1xiGC-pqG0OhQGCodF5G0sdZc2JzuwrLQD8apGWXmuWYSJEAs5-6PEhxN8Sbiy8wgqpsXYIH4Sjq2XziPl_AvPiZV3FWHymtxsZ1YBZlz0SzbF3Ld_zFne7WtPahcmlam-3sOlLRFai69BJlei2ncMUNS_OEcc85XyRlrkG4B7rpTcUwmPQSB6Mb6kdXzsgjQh5EOqbLyQAb
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=AKoT6eFfgjVJ1oQVKcLAVg&expires=1728701793&user=d448ff6c11cb4f89956cf6c463be00b3
 
 #EXTINF:-1 tvg-id=""tvg-group="Bangladesh TV" tvg-logo="",Tsport
 http://10.100.100.20:8088/102/index.m3u8?token=f33acf91a909c11890e573c852539a32db4d5130-4a1dbf77ccde84873e9c45ce041096dc-1720151427-1720147827
@@ -71,6 +69,7 @@ http://103.147.169.52:8080/auth/cAajDgktdfi24vGmk7okFs4c5qQL7u5IxuYyT0aEutkn0gIf
 
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=CIG-08ALzPtGZCobyn71GQ&expires=1728701852&user=d448ff6c11cb4f89956cf6c463be00b3
 
 #EXTINF:-1 tvg-id="Bangla TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla TV🇧🇩
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -97,12 +96,10 @@ http://asdqwcd2344.mohdtv.com:8880/live/voby5038/67747551/57881.ts?token=TBRRBxJ
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AA1jfsaEHUzSAOEfeHukSA&expires=1728701464&user=d448ff6c11cb4f89956cf6c463be00b3
 
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-group="Bangladesh TV" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",SOMOY 
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=N-WmkWHrFhQZ3uAbtePgLw&expires=1718453745&user=c15be118d93a464dabf77260596012cf
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=iRKG1yPouCY3spMEp92Shw&expires=1728701946&user=d448ff6c11cb4f89956cf6c463be00b3
 
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="https://i.ibb.co/8rjkCDZ/Mytv-Bangladesh-Logo.png",MY TV🇧🇩
-http://homeip.biz/BD_MYTV/mpegts?token=314ac298473c044930450f0faf7be506
-http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=fa3Ie-bSlQ_UaUiABQMyRQ&expires=1728701694&user=d448ff6c11cb4f89956cf6c463be00b3
 
 #EXTINF:-1 tvg-id="NTV"tvg-group="Bangladesh TV" tvg-logo="",NTV🇧🇩
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
